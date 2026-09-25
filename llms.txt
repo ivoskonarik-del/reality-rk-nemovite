@@ -1,0 +1,10 @@
+# RK Nemovite
+
+> Nabídky nemovitostí kanceláře RK Nemovite.
+
+- Web: https://www.nemovite.eu/
+
+## Nabídky (3)
+- Prodej památky 150 m², pozemek 1860 m² — Skalice, 14 950 000 Kč: prodej-pamatky-150-m2-pozemek-1860-m2-4156932172/
+- Prodej bytu 2+kk 47 m² — Studánka, 4 950 000 Kč: prodej-bytu-2-kk-47-m2-4287832140/
+- Prodej chalupy 110 m², pozemek 1145 m² — Janov, 5 995 000 Kč: prodej-chalupy-110-m2-pozemek-1145-m2-523956300/
